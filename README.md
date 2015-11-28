@@ -1,2 +1,2 @@
 # CodinGame
-My Solutions to CodinGame challenges
+My 100% solutions to CodinGame challenges (mostly Go, some C#)
